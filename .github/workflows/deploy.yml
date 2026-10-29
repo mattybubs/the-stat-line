@@ -1,0 +1,24 @@
+# Deploy to Cloudflare Pages on every push to main.
+# Staged copy — when the CLOUDFLARE_API_TOKEN repo secret exists, this goes
+# to .github/workflows/deploy.yml in the-stat-line repo and the next push
+# deploys automatically. The account ID is an identifier, not a credential;
+# only the API token is secret.
+name: Deploy to Cloudflare Pages
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Remove git metadata so it is not uploaded as site files
+        run: rm -rf .git .github
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: d360de5179d0840771d6fe7c4ee1f9a4
+          command: pages deploy . --project-name=the-stat-line --commit-dirty=true
