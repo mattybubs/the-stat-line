@@ -1,3 +1,31 @@
 # AI-edited stand-in heroes — checked by the morning recap's DAILY HERO REFRESH.
 # Format per line: <slug> | <note>. When a verified real photo is found, replace
 # the hero and delete the line.
+2026-10-29-collectibles-pokemon-dual-fusion-decks.md
+2026-10-29-diiv-dare-me-world-tour-zirp.md
+2026-10-29-mcdavid-13-game-season-opening-assist-streak-record.md
+2026-10-29-nba-night-adebayo-curry-wembanyama.md
+2026-10-29-packers-host-panthers-tonight-at-lambeau.md
+2026-10-29-phantom-blade-zero-launch.md
+2026-10-29-rituals-steps-into-haute-parfumerie.md
+2026-10-29-thursday-sneaker-drops-shai-flare-af1-asics.md
+2026-10-29-wales-bonner-x-adidas-fw26-drops-today.md
+2026-10-29-william-contreras-world-series-mvp.md
+2026-10-30-air-jordan-3-fireside-drops-october-30.md
+2026-10-30-apex-legends-cipher-season-31.md
+2026-10-30-bets-lakers-minus-1-5-warriors.md
+2026-10-30-bets-panthers-minus-1-5-jets.md
+2026-10-30-bets-parlay-lakers-panthers.md
+2026-10-30-kings-survive-senators-four-goal-rally-in-overtime.md
+2026-10-30-kith-winter-2026-drops-today-in-stores-and-online.md
+2026-10-30-lamar-jackson-plans-to-return-sunday-against-buffalo.md
+2026-10-30-modern-warfare-4-halloween-modes-possession-infected.md
+2026-10-30-modern-warfare-4-season-1-november-6.md
+2026-10-30-modern-warfare-4-seoul-footage-removed-november-12.md
+2026-10-30-pokemon-mcdonalds-happy-meal-returns-november-10.md
+2026-10-31-giannis-triple-double-heat-pacers-145-125.md
+2026-10-31-warriors-erase-25-point-deficit-beat-lakers-112-95.md
+2026-10-31-ja-morant-out-four-weeks-hamstring-strain.md
+2026-10-31-bets-alexander-walker-over-19-5-hawks-pelicans.md
+2026-10-31-bets-bruins-minus-1-5-blackhawks.md
+2026-10-31-bets-parlay-hawks-bruins.md
